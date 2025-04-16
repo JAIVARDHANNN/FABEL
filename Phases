@@ -1,0 +1,43 @@
+
+Phase 1: Project Setup & Environment Configuration
+
+- Initialize Git and create GitHub repo
+- Setup folder structure (client + server)
+- Install dependencies (React, Node, Express, MongoDB, etc.)
+- Setup `.env` files for sensitive configs
+- Connect backend to MongoDB using Mongoose
+
+
+Phase 2: Authentication & Authorization
+
+- User Registration & Login functionality
+- JWT-based authentication
+- Secure user routes (e.g., adding books, admin panel)
+- Role-based access (e.g., admin vs regular user)
+
+
+
+Phase 3: Core Bookstore Features
+
+- Add, Edit, Delete books (CRUD)
+- Book details page
+- Search & filter functionality
+- Book categories & ratings
+- Pagination (optional)
+
+
+Phase 4: Creating sell your book section 
+- Add a admin dashboard section there
+- Two separate section one for sign in options
+- Another for future Advancement
+
+
+
+
+Phase 5: UI/UX Enhancement & Deployment
+
+- Final UI design with Tailwind / Custom CSS
+- Responsive layout for all devices
+- Error handling and validation
+- Deploy frontend (e.g., Vercel) & backend (e.g., Render, Railway)
+
